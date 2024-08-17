@@ -29,3 +29,9 @@ Traditional art purchasing often faces challenges like geographical barriers, li
 7. **User Query Form:** Provide a form for customer inquiries and support.
 
    
+## Output 
+
+
+https://github.com/user-attachments/assets/d9a9f758-4a59-4f9c-83cb-c8f91251481d
+
+
