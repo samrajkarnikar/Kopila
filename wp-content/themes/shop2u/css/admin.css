@@ -1,0 +1,23 @@
+.shop2u-getting-started-notice{
+	padding: 20px 10px;
+	display: flex;
+	align-items: center;
+}
+
+.shop2u-theme-screenshot{
+	margin-right: 20px;
+}
+
+.shop2u-theme-screenshot img {
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+
+.shop2u-push-down {
+    padding-top: 15px;
+    display: inline-block;
+    padding-left: 8px;
+}

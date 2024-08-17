@@ -1,0 +1,151 @@
+<wpml-config>
+	<admin-texts>
+	  <key name="current_theme"/>
+	  <key name="theme_mods_shop2u-pro">
+	  	<key name="0"/>
+	  	<key name="nav_menu_locations"/>
+	  	<key name="shop2u_subscribe_popup_title"/>
+	  	<key name="shop2u_subscribe_popup_desc"/>
+	  	<key name="shop2u_bottom_category_label"/>
+	  	<key name="shop2u_bottom_category_more_label"/>
+	  	<key name="shop2u_bottom_category_no_more_label"/>
+	  	<key name="shop2u_bottom_r_title"/>
+	  	<key name="shop2u_bottom_r_desc"/>
+	  	<key name="shop2u_footer_copyright"/>
+	  	<key name="shop2u_prod_category_subtitle"/>
+	  	<key name="shop2u_prod_category_title"/>
+	  	<key name="shop2u_prod_category_desc"/>
+	  	<key name="shop2u_prod_recent_subtitle"/>
+	  	<key name="shop2u_prod_recent_title"/>
+	  	<key name="shop2u_prod_recent_desc"/>
+	  	<key name="shop2u_prod_featured_subtitle"/>
+	  	<key name="shop2u_prod_featured_title"/>
+	  	<key name="shop2u_prod_featured_desc"/>
+	  	<key name="shop2u_prod_deal_subtitle"/>
+	  	<key name="shop2u_prod_deal_title"/>
+	  	<key name="shop2u_prod_deal_desc"/>
+	  	<key name="shop2u_prod_deal_left_prod_subtitle"/>
+	  	<key name="shop2u_prod_deal_left_prod_offer"/>
+	  	<key name="shop2u_prod_deal_left_title"/>
+	  	<key name="shop2u_prod_deal_left_quantity_text"/>
+	  	<key name="shop2u_prod_deal_left_btn_label"/>
+	  	<key name="shop2u_prod_deal_left_btn_link"/>
+	  	<key name="shop2u_banner_subtitle"/>
+	  	<key name="shop2u_banner_title"/>
+	  	<key name="shop2u_banner_desc"/>
+	  	<key name="shop2u_offer_subtitle"/>
+	  	<key name="shop2u_offer_title"/>
+	  	<key name="shop2u_offer_desc"/>
+	  	<key name="shop2u_testimonial_subtitle"/>
+	  	<key name="shop2u_testimonial_title"/>
+	  	<key name="shop2u_testimonial_desc"/>
+	  	<key name="shop2u_funfect_subtitle"/>
+	  	<key name="shop2u_funfect_title"/>
+	  	<key name="shop2u_funfect_desc"/>
+	  	<key name="shop2u_client_subtitle"/>
+	  	<key name="shop2u_client_title"/>
+	  	<key name="shop2u_client_desc"/>
+	  	<key name="shop2u_blog_subtitle"/>
+	  	<key name="shop2u_blog_title"/>
+	  	<key name="shop2u_blog_desc"/>
+	  	<key name="shop2u_app_title"/>
+	  	<key name="shop2u_app_desc"/>
+	  	<key name="shop2u_categorypg_subtitle"/>
+	  	<key name="shop2u_categorypg_title"/>
+	  	<key name="shop2u_categorypg_desc"/>
+	  	<key name="shop2u_faqpg_title"/>
+	  	<key name="shop2u_faqpg_more_content"/>
+	  	<key name="shop2u_contactpg_title"/>
+	  	<key name="shop2u_contactpg_desc"/>
+	  	<key name="shop2u_contactpg_form_title"/>
+	  	<key name="shop2u_contactpg_form_desc"/>
+	  	<key name="shop2u_error_code"/>
+	  	<key name="shop2u_error_title"/>
+	  	<key name="shop2u_error_desc"/>
+	  	<key name="shop2u_error_btn_label"/>	  	
+	  	<key name="shop2u_topbar_left_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_topbar_right_content">
+	  		<key name="*">
+	  			<key name="title"/>	  			
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_footer_above_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_slider_content">
+	  		<key name="*">
+	  			<key name="subtitle"/>
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  			<key name="button1_label"/>
+	  			<key name="button1_link"/>
+	  			<key name="button2_label"/>
+	  			<key name="button2_link"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_slider_left_content">
+	  		<key name="*">
+	  			<key name="subtitle"/>
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  			<key name="button_label"/>
+	  			<key name="button_link"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_banner_content">
+	  		<key name="*">
+	  			<key name="subtitle"/>
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  			<key name="button_label"/>
+	  			<key name="button_link"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_offer_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  			<key name="button_label"/>
+	  			<key name="button_link"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_testimonial_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="position"/>
+	  			<key name="desc"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_funfect_content">
+	  		<key name="*">
+	  			<key name="title"/>	  			
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_client_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="link"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_faqpg_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  		</key>
+	  	</key>
+	  	<key name="shop2u_contactpg_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="desc"/>
+	  		</key>
+	  	</key>	  	
+	  </key>	  
+	</admin-texts>
+</wpml-config>
